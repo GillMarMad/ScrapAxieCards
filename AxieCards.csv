@@ -1,0 +1,133 @@
+name,bodyname,bodypart,energycost,type,attack,shield,effect,axietype,Imageurl
+Shelter,Hermit,back,1,melee,0,115,Disable critical strikes on this Axie during this round.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-02.png
+Scale Dart,Blue Moon,back,1,ranged,120,30,Draw a card if target is in Last Stand.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-04.png
+Swift Escape,Goldfish,back,1,melee,110,20,Apply Speed+ to this Axie for 2 rounds when attacked.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-06.png
+Shipwreck,Sponge,back,1,melee,60,90,Apply Attack+ to this Axie if its shield breaks.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-08.png
+Aqua Vitality,Anemone,back,1,melee,80,40,Successful attacks restore 50 HP for each Anemone part this Axie posseses.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-10.png
+Spinal Tap,Perch,back,1,melee,100,20,Prioritize idle target when comboed with at least 2 additional cards.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-12.png
+Shell Jab,Babylonia,horn,1,melee,100,50,Deal 130% damage when attacking an idle target.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-02.png
+Deep Sea Gore,Teal Shell,horn,1,melee,50,80,Add 30% to this Axie's shield when attacking.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-04.png
+Clam Slash,Clamshell,horn,1,melee,110,40,"Apply Attack+ to this Axie when attacking Beast, Bug, or Mech targets.",Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-06.png
+Aquaponics,Anemone,horn,1,ranged,80,40,Successful attacks restore 50 HP for each Anemone part this Axie posseses.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-08.png
+Hero's Bane,Oranda,horn,1,ranged,120,30,End target's Last Stand.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-10.png
+Star Shuriken,Shoal Star,horn,1,ranged,115,10,Target cannot enter Last Stand if this card brings its HP to zero.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-12.png
+Angry Lam,Lam,mouth,1,melee,110,40,Deal 120% damage if this Axie's HP is below 50%.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-mouth-02.png
+Swallow,Catfish,mouth,1,melee,80,30,Heal this Axie by the damage inflicted with this card.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-mouth-04.png
+Fish Hook,Risky Fish,mouth,1,melee,110,30,"Apply Attack+ to this Axie when attacking Plant, Reptile, or Dusk targets.",Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-mouth-08.png
+Crimson Water,Piranha,mouth,1,melee,130,20,Target injured enemy if this Axie's HP is below 50%.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-mouth-10.png
+Upstream Swim,Koi,tail,1,melee,110,30,Apply Speed+ to this Axie for 2 rounds when comboed with another Aquatic class card.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-02.png
+Tail Slap,Nimo,tail,0,melee,30,0,Gain 1 energy when comboed with another card.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-04.png
+Black Bubble,Tadpole,tail,1,ranged,100,40,Apply Jinx to target for 2 rounds.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-06.png
+Water Sphere,Ranchu,tail,1,ranged,110,30,Apply Chill to target for 2 rounds.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-08.png
+Flanking Smack,Navaga,tail,1,melee,100,40,Deal 120% damage if this Axie attacks first.,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-10.png
+Chitin Jump,Shrimp,tail,1,melee,30,30,Prioritizes furthest target,Fish,https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-12.png
+Single Combat,Ronin,back,1,melee,75,0,Guaranteed critical strike when comboed with at least 2 other cards.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-back-02.png
+Heroic Reward,Hero,back,0,melee,50,0,"Draw a card when attacking an Aquatic, Bird, or Dawn target.",Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-back-04.png
+Nitro Leap,Jaguar,back,1,melee,115,35,Always strike first if this Axie is in Last Stand.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-back-06.png
+Revenge Arrow,Risky Beast,back,1,ranged,125,25,Deal 150% damage if this Axie is in Last Stand.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-back-08.png
+Woodman Power,Timber,back,1,melee,50,100,Add Shield equal to the damage this cards deals to Plant targets.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-back-10.png
+Juggling Balls,Furball,back,1,ranged,40,30,Strike 3 times.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-back-12.png
+Branch Charge,Little Branch,horn,1,melee,125,25,Increase crit chance by 20% if chained or comboed with a plant card.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-horn-02.png
+Ivory Stab,Imp,horn,1,melee,70,20,Gain 1 energy per critical strike dealt by your team this round.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-horn-04.png
+Merry Legion,Merry,horn,1,melee,65,85,Add 20% shield to this Axie when played in a chain.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-horn-06.png
+Sugar Rush,Pocky,horn,1,melee,120,20,Deal 10% additional damage for each allied Bug Axie.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-horn-08.png
+Sinister Strike,Dual Blade,horn,1,melee,130,20,Deal 250% damage on critical strikes.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-horn-10.png
+Acrobatic,Arco,horn,1,melee,100,50,Apply Speed + to this Axie for 2 rounds when attacked.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-horn-12.png
+Nut Crack,Nut Cracker,mouth,1,melee,105,30,Deal 120% damage when comboed with another 'Nut Cracker' card.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-mouth-02.png
+Piercing Sound,Goda,mouth,1,ranged,80,40,Destoy 1 of your opponent's energy.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-mouth-04.png
+Death Mark,Axie Kiss,mouth,1,ranged,90,30,Apply Lethal to target if this Axie's HP is below 30%.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-mouth-08.png
+Self Rally,Confident,mouth,0,support,0,30,Apply 2 Morale+ to this Axie for 2 rounds.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-mouth-10.png
+Luna Absorb,Cottontail,tail,0,ranged,0,0,Gain 1 energy.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-tail-02.png
+Night Steal,Rice,tail,1,melee,80,10,Steal 1 energy from your opponent when comboed with another card.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-tail-04.png
+Rampant Howl,Shiba,tail,1,melee,110,40,Apply Morale+ to your team for 2 rounds if this Axie attacks while in Last Stand.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-tail-06.png
+Hare Dagger,Hare,tail,1,ranged,120,30,Draw a card if this Axie attacks at the beginning of the round.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-tail-08.png
+Nut Throw,Nut Cracker,tail,1,ranged,105,30,Deal 120% damage when comboed with another 'Nut Cracker' card.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-tail-10.png
+Gerbil Jump,Gerbil,tail,1,melee,40,20,Skip the closest target if there are 2 or more enemies remaining.,Beast,https://storage.googleapis.com/axie-cdn/game/cards/base/beast-tail-12.png
+Balloon Pop,Balloon,back,0,ranged,40,0,"Apply Fear to target for 1 turn. If defending, apply Fear to self until next round.",Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-back-02.png
+Heart Break,Cupid,back,1,ranged,120,20,Apply Morale- to enemy for 2 rounds.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-back-04.png
+Ill-omened,Raven,back,1,ranged,110,30,Apply Jinx to target for 2 rounds.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-back-06.png
+Blackmail,Pigeon Post,back,1,ranged,120,10,Transfer all debuffs on this Axie to target.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-back-08.png
+Patient Hunter,Kingfisher,back,1,melee,130,0,Target an Aquatic class enemy if this Axie's HP is below 50%,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-back-10.png
+Triple Threat,Tri Feather,back,0,ranged,30,10,Attack twice if this Axie has any debuffs.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-back-12.png
+Eggbomb,Eggshell,horn,1,ranged,120,0,Apply Aroma on this Axie until next round.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-horn-02.png
+Cockadoodledoo,Cuckoo,horn,0,ranged,0,40,Apply Attack+ to this Axie.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-horn-04.png
+Air Force One,Trump,horn,1,melee,120,30,"Deal 120% damage when chained with another ""Trump"" card.",Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-horn-06.png
+Headshot,Kestrel,horn,1,ranged,130,0,Disable target's horn cards next round.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-horn-08.png
+Smart Shot,Wing Horn,horn,1,ranged,50,10,Skip the closest target if there are 2 or more enemies remaining.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-horn-10.png
+Feather Lunge,Feather Spear,horn,1,melee,100,50,"Deal 120% damage when chained with another ""Lunge"" card.",Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-horn-12.png
+Soothing Song,Doubletalk,mouth,1,ranged,50,0,Apply Sleep to target.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-mouth-02.png
+Peace Treaty,Peace Maker,mouth,1,melee,120,30,Apply Attack- on target.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-mouth-04.png
+Insectivore,Hungry Bird,mouth,1,melee,110,40,Target Bug class enemy if this Axie's HP is below 50%.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-mouth-08.png
+Dark Swoop,Little Owl,mouth,1,melee,25,0,Target fastest enemy.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-mouth-10.png
+Early Bird,Swallow,tail,1,ranged,110,20,Deal 120% damage if this Axie attacks first.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-tail-02.png
+Sunder Armor,Feather Fan,tail,1,melee,40,90,Add 20% shield to this Axie for each debuff it possesses.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-tail-04.png
+Risky Feather,The Last One,tail,1,ranged,140,10,Apply 2 Attack- to this Axie.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-tail-06.png
+Puffy Smack,Cloud,tail,1,melee,100,50,Skip targets that are in Last Stand.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-tail-08.png
+Cool Breeze,Granma's Fan,tail,1,ranged,110,30,Apply Chill to target for 2 rounds.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-tail-10.png
+All-out Shot,Post Fight,tail,0,ranged,140,0,Inflict 30% of this Axie's max HP to itself.,Bird,https://storage.googleapis.com/axie-cdn/game/cards/base/bird-tail-12.png
+Sticky Goo,Snail Shell,back,1,melee,40,60,Stun attacker if this Axie’s shield breaks. Can only trigger once per round.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-back-02.png
+Barb Strike,Garish Worm,back,1,ranged,100,50,Apply poison to target when played in a chain.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-back-04.png
+Bug Noise,Buzz Buzz,back,1,ranged,100,40,Apply Attack- to target.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-back-06.png
+Bug Splat,Sandal,back,1,melee,110,50,Deal 50% more damage when attacking Bug targets.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-back-08.png
+Scarab Curse,Scarab,back,1,ranged,100,40,Target cannot be healed until next round.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-back-10.png
+Buzzing Wind,Spiky Wing,back,0,ranged,10,30,Apply Fragile to target until next round.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-back-12.png
+Mystic Rush,Laggin,horn,0,melee,40,0,Apply Speed- to target for 2 rounds.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-horn-02.png
+Bug Signal,Antenna,horn,1,ranged,80,60,"Steal energy from your opponent when chained with another ""Bug Signal"" card.",Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-horn-04.png
+Grub Surprise,Caterpillars,horn,1,ranged,80,50,Apply Fear to shielded targets.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-horn-06.png
+Dull Grip,Pliers,horn,1,melee,120,0,Deal 30% more damage to shielded targets.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-horn-08.png
+Third Glance,Parasite,horn,1,ranged,90,50,Randomly discard 1 card from your enemy's hand.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-horn-10.png
+Disguise,Leaf Bug,horn,0,melee,20,20,Gain 1 energy when comboed with a plant card.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-horn-12.png
+Blood Taste,Mosquito,mouth,1,melee,70,40,Heal this Axie by the damage inflicted with this card.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-mouth-02.png
+Sunder Claw,Pincer,mouth,0,melee,30,10,Randomly discard 1 card from your enemy's hand.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-mouth-04.png
+Terror Chomp,Cute Bunny,mouth,1,melee,120,30,Apply Fear to target for 2 turns when played in a Chain.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-mouth-08.png
+Mite Bite,Square Teeth,mouth,0,melee,30,0,Add 100% more damage when comboed with another card.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-mouth-10.png
+Chemical Warfare,Ant,tail,1,melee,30,40,Apply Stench to enemy for 1 round.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-tail-02.png
+Twin Needle,Twin Tail,tail,0,ranged,30,0,Attack twice when comboed with another card.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-tail-04.png
+Anesthetic Bait,Fish Snack,tail,1,melee,60,90,Apply stun when struck by Aquatic or Bird class cards. Can only trigger once per round.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-tail-06.png
+Numbing Lecretion,Gravel Ant,tail,1,ranged,30,40,Disable target's melee cards next round.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-tail-08.png
+Grub Explode,Pupae,tail,0,melee,60,0,Deal 200% damage when attacking in Last stand. Axie's Last Stand ends after it attacks.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-tail-10.png
+Allergic Reaction,Thorny Cattepilar,tail,1,melee,110,30,Deal 130% damage to debuffed targets.,Bug,https://storage.googleapis.com/axie-cdn/game/cards/base/bug-tail-12.png
+Turnip Rocket,Turnip,back,1,ranged,60,80,Target a bird if comboed with 2 or more cards.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-back-02.png
+Shroom's Grace,Shiitake,back,1,support,0,40,Heal this Axie for 120 HP.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-back-04.png
+Cleanse Scent,Bidens,back,0,support,0,50,Remove all debuffs from this Axie.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-back-06.png
+Aqua Stock,Watering Can,back,1,ranged,45,80,Gain 1 energy if this Axie is struck by an Aquatic card.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-back-08.png
+Refresh,Mint,back,0,support,0,50,Remove all debuffs from a teammate if its directly in front (same row) of this Axie.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-back-10.png
+October Treat,Pumpkin,back,1,melee,0,115,Draw a card if this Axie's shield doesn't break this round.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-back-12.png
+Bamboo Clan,Bamboo Shoot,horn,1,melee,80,70,Increased 20% damage when chained with another plant card.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-horn-02.png
+Wooden Stab,Beech,horn,1,melee,105,40,Deal 120% damage if this Axie's shield breaks.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-horn-04.png
+Healing Aroma,Rose Bud,horn,1,support,0,40,Heal this Axie for 120 HP.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-horn-06.png
+Sweet Party,Strawberry Shortcake,horn,2,support,0,0,"Heal front teammate for 270 HP. If there are no front teammates, heal this Axie instead.",Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-horn-08.png
+Prickly Trap,Cactus,horn,1,melee,110,20,Deal 120% damage if this Axie attacks last.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-horn-10.png
+Seed Bullet,Watermelon,horn,1,ranged,30,30,Target the fastest enemy.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-horn-12.png
+Vegetal Bite,Serious,mouth,1,melee,30,30,Steal 1 energy from your opponent when comboed with another card.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-mouth-02.png
+Drain Bite,Zigzag,mouth,1,melee,55,55,Heal this Axie by the damage this card inflicts.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-mouth-04.png
+Vegan Diet,Herbivore,mouth,1,melee,65,65,Heal this Axie by the damage this card inflicts on a Plant target.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-mouth-08.png
+Forest Spirit,Silence Whisper,mouth,1,support,0,40,Heal front teammate for 190 HP.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-mouth-10.png
+Carrot Hammer,Carrot,tail,1,melee,70,40,Gain 1 energy if this Axie's shield breaks. Can only trigger once per round.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-tail-02.png
+Cattail Slap,Cattail,tail,0,melee,20,30,"Draw a card if struck by a Beast, Bug, or Mech card.",Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-tail-04.png
+Leek Leak,Hatsune,tail,1,melee,60,80,"When hit, disable the attacker's ranged cards next round.",Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-tail-06.png
+Gas Unleash,Yam,tail,1,ranged,30,20,Apply poison each time this card is used to attack or defend.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-tail-08.png
+Aqua Deflect,Potato Leaf,tail,1,melee,70,80,Cannot be targeted by Aquatic cards if this Axie has teammates remaining.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-tail-10.png
+Spicy Surprise,Hot Butt,tail,1,melee,90,50,Disable target's mouth cards next round.,Plant,https://storage.googleapis.com/axie-cdn/game/cards/base/plant-tail-12.png
+Ivory Chop,"Bone Sail, Rugged Sail",back,1,melee,80,70,Draw a card if this Axie's shield breaks.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-back-02.png
+Spike Throw,Tri Spikes,back,1,ranged,80,50,Target enemy with lowest shield when comboed with 2 or more cards.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-back-04.png
+Vine Dagger,Green Thorns,back,0,ranged,20,30,Double shield from this card when comboed with a plant card.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-back-06.png
+Bulkwark,Indian Star,back,1,melee,20,70,Reflect 40% of melee damage back at attacker.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-back-08.png
+Slippery Shield,Red Ear,back,1,melee,10,135,Add 15% of this Axie's shield to adjacent teammates.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-back-10.png
+Nile Strike,Croc,back,1,ranged,80,60,Appy Speed- to target for 2 rounds.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-back-12.png
+Poo Fling,"Unko, Pinku Unko",horn,1,ranged,30,40,Apply Stench to target until end of round.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-horn-02.png
+Scaly Lunge,Scaly Spear,horn,1,melee,100,50,"Deal 120% damage when chained with another ""lunge"" card.",Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-horn-04.png
+Surprise Invasion,Cerastes,horn,1,melee,80,60,Deal 130% damage if target is faster than this Axie.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-horn-06.png
+Tiny Catapult,Scaly Spoon,horn,1,ranged,40,60,Reflect 50% of ranged damage back at attacker.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-horn-08.png
+Disarm,Incisor,horn,1,melee,100,40,Apply Speed- to attacker for 2 rounds.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-horn-10.png
+Overgrow Keratin,Bumpy,horn,1,melee,80,20,Recover 20 shield per turn.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-horn-12.png
+Sneaky Raid,"Toothless Bite, Venom Bite",mouth,1,melee,20,40,Target the furthest enemy.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-mouth-02.png
+Kotaro bite,Kotaro,mouth,1,melee,80,20,Gain 1 energy if target is faster than this Axie.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-mouth-04.png
+Why So Serious,Razor Bite,mouth,1,melee,90,50,Heal this Axie by damage inflicted with this card to Aquatic targets.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-mouth-08.png
+Chomp,Tiny Turtle,mouth,1,melee,80,50,Apply Stun to enemy when comboed with at least 2 additional cards.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-mouth-10.png
+Critical Escape,"Wall Gecko, Escaped Gecko",tail,1,melee,90,30,Reduce damage taken by 15% this round.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-tail-02.png
+Scale Dart,Iguana,tail,1,ranged,90,60,Generate 1 energy when attacking a buffed target.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-tail-04.png
+Tiny Swing,Tiny Dino,tail,1,melee,80,40,Deal 150% damage after round 4.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-tail-06.png
+Jar Barrage,Snake Jar,tail,1,ranged,70,10,Attacks that break this Axie’s shield cannot do additional damage. Can only trigger once per round.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-tail-08.png
+Neuro Toxin,Gila,tail,1,ranged,100,50,Apply Attack- to poisoned targets.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-tail-10.png
+Venom Spray,Grass Snake,tail,0,ranged,10,20,Apply Poison to target.,Reptil,https://storage.googleapis.com/axie-cdn/game/cards/base/reptile-tail-12.png

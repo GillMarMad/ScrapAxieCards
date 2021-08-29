@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import urllib.request
+import csv
 
 class AxieCard():
     def __init__(self, name, axietype, energycost, bodyname, type, attack, shield, effect, url):
@@ -62,15 +63,20 @@ for key, values in axieTypes.items():
                 elements.append(span.text)
             url = (i.find('img')['src'])
             elements.append(url)
-        for element in elements:
-            print(element)
-        print("\n ------------ ")
+        # for element in elements:
+        #     print(element)
+        # print("\n ------------ ")
         card = AxieCard(elements[3], elements[0], elements[4], elements[1], elements[2], elements[5], elements[6], elements[7], elements[8])
-        card.downloadImage()
+        # card.downloadImage()
         Cards.append(card)
 
 
-
-
-
-
+#Create CSV File
+header = ['name','bodyname','bodypart','energycost','type','attack','shield','effect','axietype','Imageurl']
+data = []
+for card in Cards:
+    data.append([card.name, card.bodyname, card.bodypart, card.energycost, card.type, card.attack, card.shield, card.effect, card.axietype, card.url])
+with open('AxieCards.csv', 'w', encoding='UTF8', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(header)
+    writer.writerows(data)
